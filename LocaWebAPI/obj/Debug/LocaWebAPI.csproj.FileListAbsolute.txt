@@ -1,0 +1,118 @@
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\ApplicationInsights.config
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\roslyn\csc.exe
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\roslyn\vbc.exe
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\roslyn\VBCSCompiler.exe
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\LocaWebAPI.dll.config
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\LocaWebAPI.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\LocaWebAPI.pdb
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Antlr3.Runtime.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.Web.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.ApplicationInsights.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Newtonsoft.Json.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Net.Http.Formatting.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.Helpers.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.Http.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.Http.WebHost.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.Mvc.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.Optimization.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.Razor.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.WebPages.Deployment.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.WebPages.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.WebPages.Razor.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\WebGrease.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.Web.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.ApplicationInsights.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Newtonsoft.Json.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Net.Http.Formatting.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.Helpers.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.Http.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.Http.WebHost.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.Mvc.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.Optimization.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.Razor.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.WebPages.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.WebPages.Deployment.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\System.Web.WebPages.Razor.xml
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\bin\Antlr3.Runtime.pdb
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\obj\Debug\LocaWebAPI.csprojResolveAssemblyReference.cache
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\obj\Debug\LocaWebAPI.dll
+c:\users\smil\documents\visual studio 2015\Projects\LocaWebAPI\LocaWebAPI\obj\Debug\LocaWebAPI.pdb
+C:\Source\LocaWebAPI\LocaWebAPI\bin\ApplicationInsights.config
+C:\Source\LocaWebAPI\LocaWebAPI\bin\roslyn\csc.exe
+C:\Source\LocaWebAPI\LocaWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Source\LocaWebAPI\LocaWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Source\LocaWebAPI\LocaWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\roslyn\vbc.exe
+C:\Source\LocaWebAPI\LocaWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Source\LocaWebAPI\LocaWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Source\LocaWebAPI\LocaWebAPI\bin\LocaWebAPI.dll.config
+C:\Source\LocaWebAPI\LocaWebAPI\bin\LocaWebAPI.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\LocaWebAPI.pdb
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Antlr3.Runtime.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.Web.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Newtonsoft.Json.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.Helpers.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.Http.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.Mvc.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.Optimization.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.Razor.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.WebPages.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\WebGrease.dll
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.Web.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Newtonsoft.Json.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.Helpers.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.Http.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.Mvc.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.Optimization.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.Razor.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.WebPages.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Source\LocaWebAPI\LocaWebAPI\bin\Antlr3.Runtime.pdb
+C:\Source\LocaWebAPI\LocaWebAPI\obj\Debug\LocaWebAPI.csprojResolveAssemblyReference.cache
+C:\Source\LocaWebAPI\LocaWebAPI\obj\Debug\LocaWebAPI.dll
+C:\Source\LocaWebAPI\LocaWebAPI\obj\Debug\LocaWebAPI.pdb
